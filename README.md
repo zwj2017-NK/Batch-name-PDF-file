@@ -1,3 +1,3 @@
-# Batch-name-PDF-file\
+# Batch-name-PDF-file
 **为了能够高效地重命名pdf文件,专门写了这个脚本，希望提高大家的工作效率**\
 **重命名后的文件格式为：日期－文件标题.pdf**
